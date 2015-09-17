@@ -16,7 +16,9 @@ There are a few ways to contribute to this list:
   * [Principle](http://principleformac.com/) *Shared by many people*
     
     The general consensus is that Principle is a tool for *interaction design*. It has robust and intuitive animation features, and some nice things like interoperability with Sketch.
+    
     **Pros**: Fast, simple to setup, varied outputs
+    
     **Cons**: Mac only, difficult to create much beyond a single app flow 
   
   * [Flinto for Mac](https://www.flinto.com/mac) *Shared by many people*
