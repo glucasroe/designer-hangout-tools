@@ -11,17 +11,22 @@ There are a few ways to contribute to this list:
 
 #The List:
 
-* Prototyping:
+##UX tools:
+* ###Prototyping:
   * [Principle](http://principleformac.com/) *Shared by many people*
+    Test of a paragraph inside of an li
   * [Flinto for Mac](https://www.flinto.com/mac) *Shared by many people*
-* Writing:
+    Test of a paragarph inside of an li
+* ###Reference
+  * [Display Resolution Visualization](https://david-smith.org/displays/) *Shared by @wladi*
+* ###Meta (Articles, rollups, databases)
+  * [Subtraction Design Tools Survey](http://tools.subtraction.com/) *Shared by many people*
+  * [Can Sketch or Affinity replace Illustrator?](http://blog.iconfinder.com/can-sketch-or-affinity-designer-replace-adobe-illustrator/) *Shared by @sainxart*
+
+## Other Tools:
+* ###Writing:
   * [Alex](http://alexjs.com/) *Shared by @laurendorman*
-* Goal Tracking:
+* ###Goal Tracking:
   * [Goal Streaks](http://www.goalstreaks.com/) *Shared by @erino*
   * [Way of Life](http://wayoflifeapp.com/) *Shared by @erino*
   * [Habatica](https://habitica.com) *Shared by @anitaycheng*
-* Reference
-  * [Display Resolution Visualization](https://david-smith.org/displays/) *Shared by @wladi*
-* Meta (Articles, rollups, databases)
-  * [Subtraction Design Tools Survey](http://tools.subtraction.com/) *Shared by many people*
-  * [Can Sketch or Affinity replace Illustrator?](http://blog.iconfinder.com/can-sketch-or-affinity-designer-replace-adobe-illustrator/) *Shared by @sainxart*
