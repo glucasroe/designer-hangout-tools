@@ -1,6 +1,6 @@
 #Designer Hangout Tools:
 
-A list of tools shared in the resources_tools channel from the [UX Designer Hangout](http://www.designerhangout.co/). At some future point, I'm hoping to make this a more robust tool, but for now jus the text will have to do.
+A list of tools shared in the resources_tools channel from the [UX Designer Hangout](http://www.designerhangout.co/). At some future point, I'm hoping to make this a more robust tool, but for now it's a markdown document. Try to contain your excitement.
 
 ##Contributing to this list:
 There are a few ways to contribute to this list:
