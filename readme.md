@@ -15,7 +15,7 @@ There are a few ways to contribute to this list:
   * [Principle](http://principleformac.com/) *Shared by many people*
   * [Flinto for Mac](https://www.flinto.com/mac) *Shared by many people*
 * Writing:
-  * [Alex](http://alexjs.com/)
+  * [Alex](http://alexjs.com/) *Shared by @laurendorman*
 * Goal Tracking:
   * [Goal Streaks](http://www.goalstreaks.com/) *Shared by @erino*
   * [Way of Life](http://wayoflifeapp.com/) *Shared by @erino*
